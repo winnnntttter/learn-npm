@@ -2,13 +2,17 @@
   "name": "learn_npm",
   "version": "1.0.0",
   "description": "this is a package json",
+  "repository": "https://github.com/winnnntttter/learn-npm",
   "main": "index.js",
   "scripts": {
-    "test": "run learn"
+    "test": "node test.js"
   },
   "keywords": [
     "learn"
   ],
   "author": "winnnntttter",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
