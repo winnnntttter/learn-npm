@@ -1,6 +1,6 @@
 {
   "name": "learn_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a package json",
   "repository": "https://github.com/winnnntttter/learn-npm",
   "main": "index.js",
