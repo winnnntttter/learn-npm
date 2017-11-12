@@ -1,0 +1,14 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "this is a package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "run learn"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "winnnntttter",
+  "license": "MIT"
+}
